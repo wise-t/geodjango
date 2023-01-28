@@ -39,3 +39,4 @@ on browser: localhost:8000
 ```
 ## Support
 For any issue with the application, drop a message via swanjohi@lifeingis.com or join the Telegram Group at https://t.me/joinchat/D6VfOBIfhHh4i8yZ19sqbQ
+# geodjango
